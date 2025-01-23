@@ -1,7 +1,7 @@
 ### Hi there, I'm Cynthia Kamau 👋
 
 
-## **I'm a Software Engineer and an avid DDD Enthusiast.**
+## **I'm a Software Engineer and Open source contributor.**
 
 - 🎯 **I’m currently working on**: Mastering the intricacies of advanced software architectures and system design.
 - 💬 **Ask me about**: Javascript, GraphQL, RESTful APIs, SQL and NoSQL Databases, Unit Testing, CI/CD /w Github Actions.
